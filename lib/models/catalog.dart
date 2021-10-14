@@ -19,8 +19,9 @@ final products = [
   Item(
       id: "coder1",
       name: "pradeep",
-      description: "a boy",
-      price: 99,
+      description: "iphone 12",
+      price: 999,
       color: "#33505a",
-      image: "https://images6.alphacoders.com/116/1167538.jpg")
+      image:
+          "https://www.reliancedigital.in/medias/Apple-12-Smartphones-491901533-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMTMwMTd8aW1hZ2UvanBlZ3xpbWFnZXMvaDM2L2g1OC85NDA3NzMxMTcxMzU4LmpwZ3w5NjBiYTIzZWE1Yjg5NjQzN2YyZTAxZjNhNGI2ODg0YzQ4NmZlMDZiN2EwYmVkYjlhZjA3OGIxNDZiNDEzNTc0")
 ];
